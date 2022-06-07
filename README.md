@@ -9,7 +9,7 @@ Made [Warp](https://github.com/evolutionleo/GM-Online-Framework), a framework fo
 
 ### Join my [Discord](https://discord.gg/WRsgumM2T6) to hang out!
 
-Also check out the [Twitter](https://twitter.com/EvoleoDev) to see my work
+Also check out the [Twitter](https://twitter.com/EvoleoDev) to see some of my work
 
 <!--
 **evolutionleo/evolutionleo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
