@@ -27,6 +27,8 @@ Here are some ideas to get you started:
 -->
 
 
+<!--
 [![Evoleo's GitHub stats](https://github-readme-stats.vercel.app/api?username=evolutionleo&theme=tokyonight&count_private=true&hide=contribs&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=evolutionleo&theme=tokyonight&hide=yacc&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+-->
