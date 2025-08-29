@@ -1,15 +1,18 @@
 ## Hi there 👋
 
-I'm Evoleo, a student and game developer who loves everything code 💻
+I'm Evoleo, a student and developer who loves making games 🎮 (+ other things occasionally)
 
+✔️ Gameplay programmer
+✔️ Game designer
 ✔️ Indie games enjoyer
 ✔️ MTG addict
 ✔️ Netcode enthusiast
+✔️ Backend developer
 ✔️ Programming games since I was 9
 ✔️ Working freelance since I was 15
 ✔️ 
 
-You probably know me for [Warp](https://github.com/evolutionleo/Warp), my framework for online multiplayer games in GameMaker x Node.js
+You probably know me for [Warp](https://github.com/evolutionleo/Warp), my framework for creating online multiplayer games in GameMaker x Node.js
 
 
 ### Join my [Discord](https://discord.gg/WRsgumM2T6) to hang out!
