@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm Evoleo, a student and developer who loves making games 🎮 (+ other things occasionally)
+I'm Evoleo, a uni dropout and developer who loves making games 🎮 (+ other things occasionally)
 
 ✔️ Gameplay programmer
 ✔️ Game designer
